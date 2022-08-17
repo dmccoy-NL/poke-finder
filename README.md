@@ -14,8 +14,8 @@ Users have associated posts that belong to them, when I click on a users name I 
 
 ## Step 3
 
-Components and functionality from Steps 1 and 2 should be tested.
+Components and functionality from Steps 1 and 2 should be unit tested.
 
 ## Bonus
 
-Show the comments on each post.
+Display each posts associated comments.
