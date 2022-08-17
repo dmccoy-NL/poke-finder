@@ -6,7 +6,7 @@ https://jsonplaceholder.typicode.com/
 
 ## Step 1
 
-Create a paginated table with data populated from the given resource. The table should display the users `id`, `name`, `username`, and `email`, `website`, `phone`, and `company name`.
+Create a table with data populated from the given resource. The table should display the users `id`, `name`, `username`, and `email`, `website`, `phone`, and `company name`.
 
 ## Step 2
 
