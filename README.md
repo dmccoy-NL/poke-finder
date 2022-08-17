@@ -3,6 +3,7 @@
 ## Resources
 
 https://jsonplaceholder.typicode.com/
+
 https://jsonplaceholder.typicode.com/guide/
 
 ## Step 1
